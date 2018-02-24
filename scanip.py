@@ -13,9 +13,9 @@ pinghead = 'ping -c 1 '
 cacheip = []
 print('%%%%%============================%%%%')
 print('The program func is scan lan ip \n')
-print("For  enter:  192.168\n ")
-print("Or for enter :  172.16 networt adf\n")
-print("And .1.xxx for host number\n")
+print("For  enter:  192.168 network add0\n ")
+print("Or for enter :  1 networt add1\n")
+print("And 254 for host number\n")
 print("And press  'q' to quit the program\n")
 print('%%%%%===========================%%%%%')
 cont=input('enter any key to continue......\n')
