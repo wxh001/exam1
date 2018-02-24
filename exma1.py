@@ -9,7 +9,7 @@ ls
 cd /storage/emulated/0/python
 ls
 ||| from imp import reload  |||
-||| reload('exam1')   |||
+||| reload(exam1)   |||
 """
 
 from os import system
