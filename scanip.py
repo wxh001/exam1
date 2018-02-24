@@ -5,8 +5,8 @@ import sys
 ss = sys.path
 aa = '/storage/emulated/0/python'
 ss.append(aa)
-|||form imp import reload|||
-|||reload('scanip')|||
+|||   form imp import reload   |||
+|||   reload(scanip)   |||
 import scanip
 """
 from os import system
