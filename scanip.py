@@ -1,4 +1,5 @@
 """
+scanip.py in "/storage/emulated/0/python"
 pyhon or Qpython or Qpython3
 import sys
 ss = sys.path
