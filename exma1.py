@@ -8,7 +8,10 @@ system('sh')
 ls
 cd /storage/emulated/0/python
 ls
+||| from imp import reload  |||
+||| reload('exam1')   |||
 """
+
 from os import system
 pinghead = 'ping -c 8 '
 print('%%%%%============================%%%%')
